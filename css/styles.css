@@ -1,16 +1,4 @@
-.important {
-  color: red;
-}
-.unimportant {
-  color: blue;
-}
-.important {
-  color: red;
-}
-.unimportant {
-  color: blue;
-}
-.cat-climate {
-  background-color: yellow;
-}
-  
+.column {
+    width: 350px;
+    float: left;
+  }
